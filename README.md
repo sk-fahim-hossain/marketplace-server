@@ -1,5 +1,7 @@
 <h2>Live: https://tmarrt.netlify.app/</h2>
 <ul>
+       
+## Features
        <li>Created a responsive e-commerce platform with React, React Router, and 
        Tailwind CSS.</li>
        <li>Integrated Firebase for user authentication and Stripe for secure online payments.</li>
